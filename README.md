@@ -1,10 +1,12 @@
-# imggai
+# Flutter Image Generator AI
 
 image generator ai by salar dev
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can use this project with
+```python
+return git clone https://github.com/salar-dev/Flutter-Image-Genrator-AI.git
 
 A few resources to get you started if this is your first Flutter project:
 
