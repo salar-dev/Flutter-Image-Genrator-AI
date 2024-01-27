@@ -9,3 +9,4 @@ You can use this project with
 git clone https://github.com/salar-dev/Flutter-Image-Genrator-AI.git
 ```
 
+![This is Example](assets/example.gif)
